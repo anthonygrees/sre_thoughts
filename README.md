@@ -3,7 +3,7 @@
 Due to my background in automation at large scale, I'm often asked for advice on SRE practices.  Fortunately I worked with some of the best SRE's in the business, including [@NathenHarvey](https://github.com/nathenharvey) - Developer Advocate for Google Cloud Platform.  
   
   
-### 1. The Question 
+### 1. The First Question 
   
 When I meet a customer or collegue who askes about SRE, I always ask these initial questions:  
 - How did you find out about your last outage ?  
