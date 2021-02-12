@@ -28,18 +28,27 @@ The 3 most important measures for an SRE.
 
 #### 3.1 SLI - Service Level Indicator
 Metrics that describe users experience.  
+- Response times  
+- Ticket Queue monitoring  
 - Net Promoter Score  
 - Twitter sentiment  
 - Reddit issues  
   
 #### 3.2 SLO - Service Level Objective
-- Our target health - how good does our customer need ?  
+Our target health  
+- how good does our customer need it ?  
 
 #### 3.3 SLA - Service Level Agreement
-- Contractable obligation. 
+Contractable obligation  
+- Penalties  
+- Restore times  
   
+  
+We want to be asking ourselves:  
+```bash
 When do we need to make a system more reliable ?
-
+```
+  
 ### 4. SRE Framework - Error Budget
   
 What is an `Error Budget` ???   
