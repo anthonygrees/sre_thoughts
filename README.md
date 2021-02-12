@@ -5,7 +5,7 @@ Due to my background in automation at large scale, I'm often asked for advice on
   
 ### 1. The First Question 
   
-When I meet a customer or collegue who askes about SRE, I always ask these initial questions:  
+When I meet a customer or colleague who askes about SRE, I always ask these initial questions:  
 - How did you find out about your last outage ?  
 - What was the impact to your customers ?  
 - How did your organisation respond ?  
