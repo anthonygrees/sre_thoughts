@@ -20,7 +20,7 @@ Yes, it was created by Google.  SRE is what you get when you treat operations as
 Some things to remember:  
 1. The MOST important feature of any system is it’s reliability.  
 2. Our monitoring does not only decide our reliability because our Users do.  
-3. Reliability comes from great engineered Software, Operations and Business.  
+3. Reliability comes from great engineered Software, Operations and Business working `together`.  
   
 ### 3. SRE Measures
   
