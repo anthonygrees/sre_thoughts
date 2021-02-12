@@ -72,7 +72,7 @@ What to do when you have budget to spend and what to do when your out of budget 
   
 ### 6. Site Reliability Hierarchy - Monitoring 
 This is the hierachy of SRE's as defined by Google.  
-https://www.zenoss.com/blog/dickersons-hierarchy-of-service-reliability
+![Site Reliability Hierarchy](/images/dickersons-hierarchy-of-service-reliability.png)
   
 ### 7. Remember this about incidents
 Firefighters say `We have never responded to an emergency` !  They practice to put out a fire on a burning house.  
