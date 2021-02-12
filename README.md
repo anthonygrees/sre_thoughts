@@ -98,11 +98,11 @@ Detect -> Investigate -> Mitigate -> Fix -> Learn
 So, what are the answers to my questions above ?  
   
 - How did you find out about your last outage ?  
-It’s your SLI. 
+`It’s your SLI.` 
   
 - What was the impact to your customers ?  
-It’s your SLO. 
+`It’s your SLO.` 
   
 - How did your organisation respond ?  
-Error budget consequences. 
+`Error budget consequences.` 
   
