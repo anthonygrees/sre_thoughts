@@ -1,6 +1,6 @@
 # SRE - Thoughts, Best Practices & Frameworks
  
-Due to my background in automation at large scale, I'm often asked for advice on SRE practices.  Fortunately I worked with some of the best SRE's in the business, including https://github.com/nathenharvey - Developer Advocate for Google Cloud Platform.  
+Due to my background in automation at large scale, I'm often asked for advice on SRE practices.  Fortunately I worked with some of the best SRE's in the business, including [@NathenHarvey](https://github.com/nathenharvey) - Developer Advocate for Google Cloud Platform.  
   
   
 ### 1. The Question 
@@ -90,14 +90,14 @@ Detect -> Investigate -> Mitigate -> Fix -> Learn
 ```
 
 ### 9. Resources
-- Free books - landing.google.com/sre/books 
+- Free books - https://sre.google/books/   
 - Splunk SRE site - https://www.observability.splunk.com/en_us/infrastructure-monitoring/guide-to-sre-and-the-four-golden-signals-of-monitoring.html
 
 
 ### 10. Going Back to the Questions Above
 So, what are the answers to my questions above ?  
   
-- How did you find out about your last outage ?
+- How did you find out about your last outage ?  
 It’s your SLI. 
   
 - What was the impact to your customers ?  
@@ -105,3 +105,4 @@ It’s your SLO.
   
 - How did your organisation respond ?  
 Error budget consequences. 
+  
