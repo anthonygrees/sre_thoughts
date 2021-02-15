@@ -134,3 +134,4 @@ Discussion topics for the CoP to start with:
 - Feature Toggles.   
 - Auto Scaling.  
 - Self Healing Apps and Infra.  
+- Automated Testing.  
