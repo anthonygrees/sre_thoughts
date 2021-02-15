@@ -115,3 +115,17 @@ So, what are the answers to my questions above ?
 - How did your organisation respond ?  
 `Error budget consequences.` 
   
+### 11. How to get started - Community of Practice
+Create a CoP or Community of Practice.  Nominate some key leaders from each group and include everyone.  The CoP is a place for everyone to learn, pracice skills, plan, design and build better platforms, applications and monitoring.   
+  
+Discussion topics for the CoP to start with:  
+- SCM's GitOps.  
+- DevSecOps
+- CI/CD Pipelines.  
+- Infra as Code.  (Terraform, Config Mgmt.)
+- Security as Code.  
+- Blameless Postmortums.   
+- SLIs, SLOs and SLAs.   
+- Monitoring.  
+- Alerting.  
+- Observability.  
