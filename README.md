@@ -132,3 +132,5 @@ Discussion topics for the CoP to start with:
 - Alerting.  
 - Observability.  
 - Feature Toggles.   
+- Auto Scaling.  
+- Self Healing Apps and Infra.  
