@@ -124,8 +124,11 @@ Discussion topics for the CoP to start with:
 - CI/CD Pipelines.  
 - Infra as Code.  (Terraform, Config Mgmt.)
 - Security as Code.  
+- Application Automation.   
+- Immutable Artifacts and Artifact Repo's.  
 - Blameless Postmortums.   
-- SLIs, SLOs and SLAs.   
+- SLIs, SLOs and SLAs / Error Budgets.   
 - Monitoring.  
 - Alerting.  
 - Observability.  
+- Feature Toggles.   
